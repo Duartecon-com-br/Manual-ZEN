@@ -1,0 +1,7 @@
+site_name: Manual de Como Utilizar o Portal ZEN
+
+markdown_extensions:
+  - attr_list
+
+theme:
+  name: 'rtd-dropdown'
