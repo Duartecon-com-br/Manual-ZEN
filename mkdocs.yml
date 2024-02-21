@@ -4,4 +4,4 @@ markdown_extensions:
   - attr_list
 
 theme:
-  name: 'rtd-dropdown'
+  name: readthedocs
