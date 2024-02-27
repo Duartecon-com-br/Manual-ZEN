@@ -28,7 +28,7 @@
 
 6 - Caso deseje trocar de empresa Clique em "Trocar empresa" e selecione a correta.
 
-# Enviar Documentos
+## Enviar Documentos
 
 1 - Clique em "Enviar Documentos"
 
@@ -44,7 +44,7 @@
 
 3 - Após isso vocÊ será direcionado para uma tela e será necessario preencher as informações solicitadas e no final você poderá anexar seu documento. No final, se preencheu tudo corretamento, clique em "Cadastrar".
 
-# Escritório Virtual
+## Escritório Virtual
 
 * Agora vamos conhecer todos os tipo de documentos e solicitações que você pode enviar pelo escritorio virtual.
 
@@ -65,7 +65,7 @@
 * **Abaixo segue manual de cada tipo de documento, se você não precisar enviar algum documento pode ignorar. Caso precise pode ir direto para o manual, selecionando pelo menu a esquerda.**
 
 
-## Cadastro de Admissão de Usuário
+### Cadastro de Admissão de Usuário
 
 1 - Você será direcionado para o formulário para preencher com as informações.
 
@@ -99,7 +99,7 @@
 
 8 - Após preencher todas as informações e chegar na ultima aba (Visualização), você poderá conferir tudo o que foi digitado e no final da pagina podera clicar em "Enviar para Sincronização" e caso não queira enviar no momento para apenas clicar em "Salvar Rascunho" e ficará salvo para finalizar em outro momento.
 
-## Alteração de Cargo
+### Alteração de Cargo
 
 1 - Para fazer alteração de cargo é necessario preencher apenas com as informações de nome do funcionário, data inicial do novo cargo, o novo cargo e o motivo.
 
@@ -109,7 +109,7 @@
 
 2 - Após isso apenas confira as informações digitadas na proxima aba e clique em "Enviar".
 
-## Alteração de Salário
+### Alteração de Salário
 
 1 - Para fazer alteração de salário é necessário preencher apenas os campos de nome do empregado, data inicial, motivo e o novo salario.
 
@@ -119,7 +119,7 @@
 
 2 - Após isso apenas confira as informações digitadas na proxima aba e clique em "Enviar".
 
-## Despesas Médicas Variaveis
+### Despesas Médicas Variaveis
 
 1 - Selecione a operadora Clicando na Lupinha e a competencia.
 
@@ -139,7 +139,7 @@
 
 5 - Após digitar todos os funcionarios e dependentes Cliq em "Proxima aba", confira as informações e clique em "Enviar para Sincronização" ou "Salvar Rascunho" se deseja enviar em outro momento.
 
-## Lançamentos de Eventos Variaveis
+### Lançamentos de Eventos Variaveis
 
 1 - Selecione os eventos que você deseja digitar (pode selecionar quantos desejar).
 
@@ -155,7 +155,7 @@
 
 * *Lembre de sempre digitar todos os eventos em apenas um envio, pois não é possivel enviar varias publicações com eventos diferentes, pois o sistema só considera o ultimo enviado.*
 
-## Solicitação de Férias
+### Solicitação de Férias
 
 1 - Preencha todos os campos com as informações que são solicitadas.
 
@@ -169,7 +169,7 @@
 
 3 - Verifique as informações e clique em "Envia para Sincronização" ou "Salvar Rascunho" se deseja enviar em outro momento.
 
-## Solicitação de Rescisão
+### Solicitação de Rescisão
 
 1 - Preencha todos os campos com as informações que são solicitadas.
 
@@ -183,7 +183,7 @@
 
 3 - Confira as informações digitadas e clique em "Enviar para Sincronização" ou "Salvar Rascunho" se deseja enviar em outro momento.
 
-# Visualizando Documentos Enviados
+## Visualizando Documentos Enviados
 
 1 - Para consultar os documentos que você enviou para nós clique em "Meus Documentos"
 
@@ -225,7 +225,7 @@
 
 ![Image](./imagens/consulta_escritorio.png)
 
-# Visualizando Documentos Recebidos
+## Visualizando Documentos Recebidos
 
 1 - Para visualizar os documentos que enviamos para você, clique em "Meus Documentos"
 
