@@ -8,7 +8,7 @@
 
 2 - Após chegar na tela de login preencha com seus dados.
 
-![image](./imagens/login.png)
+![image](./imagens/loginSieg.png)
 
 * **Caso não tenha suas informações de login entre em contato pelo [Whatsapp](https://wa.me/5519992062440){:target="_blank"} ou pelo telefone (19) 3406-3845**
 
@@ -42,7 +42,7 @@
 
 3.1 - Caso não deseje adicionar mais campos clique em "Selecionar" e coloque qual operador de comparação quer colocar 
 
-![image](./imagens/preenchimento.png)
+![image](./imagens/preenchimentoSieg.png)
 
 4 - Após preencher coloque o valor que deseja procurar e clique em "Buscar".
 
