@@ -1,4 +1,8 @@
-# Acessando o ZEN
+# Como Utilizar o ZEN
+
+**Olá, nesse manual vamos aprender a usar o ZEN**
+
+## Acessando o ZEN
 
 1 - Comece Abrindo seu e-mail
 
@@ -7,6 +11,8 @@
 ![Image](./imagens/usuario.png)
 
 * *Nesse e-mail você terá acesso ao seu Login, senha e o Link do Portal*
+
+* **Caso não tenha suas informações de login entre em contato pelo [Whatsapp](https://wa.me/5519992062440){:target="_blank"} ou pelo telefone (19) 3406-3845**
 
 3 - Acesso o Link [Portal ZEN](https://duarte.app.questorpublico.com.br/){:target="_blank"}
 

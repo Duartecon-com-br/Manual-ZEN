@@ -1,4 +1,8 @@
-# Acessando o SIEG
+# Colocar Tag em Notas no Sieg
+
+**Olá, nesse manual vamos aprender a colocar Tag em notas no SIEG**
+
+## Acessando o Sieg
 
 1 - Para acessar o SIEG, clique no link a seguir [SIEG](https://hub.sieg.com/){:target="_blank"}
 
@@ -10,7 +14,7 @@
 
 3 - Ao preencher sera direcionado ao menu principal do SIEG.
 
-## Conhecendo o ambiente
+### Conhecendo o ambiente
 
 1 - No menu principal do Sieg, clique em "Todos os Serviços" e depois clique em "Cofre"
 
