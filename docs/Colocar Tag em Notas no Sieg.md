@@ -1,8 +1,10 @@
-# Colocar Tag em Notas no Sieg
+# Sieg
 
-**Olá, nesse manual vamos aprender a colocar Tag em notas no SIEG**
+## Colocar Tag em Notas no Sieg
 
-## Acessando o Sieg
+**Olá, nesse manual vamos aprender a colocar Tag em notas no SIEG.**
+
+### Acessando o Sieg
 
 1 - Para acessar o SIEG, clique no link a seguir [SIEG](https://hub.sieg.com/){:target="_blank"}
 
