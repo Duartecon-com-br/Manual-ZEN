@@ -241,3 +241,52 @@
 
 ## Visualizando Documentos Enviados
 
+1 - Para visualizar os documentos que você nos enviou, clique em "Meus Documentos".
+
+![Image](./imagens/meus_doc.png)
+
+2 - Nessa etapa é necessario colocar os filtros para visualizar os documentos.
+
+* Deixe a opção "Enviados" selecionada
+
+* Selecione a opção "Todos" 
+
+* Clique em "Buscar"
+
+![Image](./imagens/enviados.png)
+
+3 - Fazendo esses passos todas as suas publicações enviadas (ja visualizadas e em aberto) serão listadas.
+
+![Image](./imagens/enviados_2.png)
+
+**Explicação dos status de documentos**
+
+![Image](./imagens/status.png)
+
+* NOVO: Publicação que ainda não foi visualizada.
+
+* PENDENTE: Publicação que foi aberta, porem não fez download dos Arquivos.
+
+* ARQUIVADO: Publicação que ja foi aberta e ja foi feito o download dos arquivos.
+
+4 - Para visualizar os detalhes do documento enviado, clique na "Lupinha".
+
+![Image](./imagens/visualizar_enviados.png)
+
+ 5 - Nessa tela é possivel ver algumas informações da publicação e para fazer o download dos arquivos cliquem em "Download" e assim os arquivos serão baixados no seu computador.
+
+ ![Image](./imagens/visualizando.png)
+
+ * *Após fazer isso o status da publicação irá automaticamente para "Arquivado"*
+
+ 5.1 - Ainda na tela da publicação, temos a opção de visualizar o historico da publicação. Quem enviou, quem visualizou, quem recebeu a publicação, tudo isso com dia e horario que a atividade foi realizada. Para visualizar, clique na "Engrenagem ao lado de "Movimentações".
+
+![Image](./imagens/engrenagem.png)
+
+* *Após clicar poderá ver todas as movimentações*
+
+![Image](./imagens/movimentacao.png)
+
+ 5.2 - Também é possivel Clicar em "Visualizar detalhes" para apenas visualizar o que foi enviado sem fazer nenhum download.
+
+6 - Não se esqueça de sempre abrir os documentos que você fez download e verificar sobre o que se trata.
