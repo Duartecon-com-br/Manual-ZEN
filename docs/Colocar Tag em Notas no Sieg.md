@@ -34,7 +34,7 @@
 
 2 - Para saber por quais campos você pode pesquisar, clique em "Selecionar Campo".
 
-![image](./imagens/selecionar campo.png)
+![image](./imagens/Selecionar Campo.png)
 
 * **Veja os campos abaixo.**
 
@@ -52,15 +52,6 @@
 
 5 - Após isso as notas, cujo o filtro se encaixa, serão listadas abaixo.
 
-6 - Para adicionar uma tag a nota, clique com o botão direito do mouse, selecione "Adicionar Tags".
-
-![image](./imagens/tags.png)
-
-7 - Selecione a categoria que desejar e clique em "Adicionar Tag".
-
-![image](./imagens/categorias.png)
-
-8 - Está feito!!! A nota esta com categoria.
 
 ### Menu NF-e
 
@@ -78,12 +69,14 @@
 
 2.2 - Após chegar a pasta final, as notas serão listadas.
 
-3 - Para adicionar uma tag a nota, clique com o botão direito do mouse, selecione "Adicionar Tags".
+### Adicionar Tag
+
+1 - Para adicionar uma tag a nota, clique com o botão direito do mouse, selecione "Adicionar Tags".
 
 ![image](./imagens/tags.png)
 
-4 - Selecione a categoria que desejar e clique em "Adicionar Tag".
+2 - Selecione a categoria que desejar e clique em "Adicionar Tag".
 
 ![image](./imagens/categorias.png)
 
-5 - Está feito!!! A nota esta com categoria.
+3 - Está feito!!! A nota esta com categoria.
