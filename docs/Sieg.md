@@ -1,6 +1,6 @@
 # Sieg
 
-## Colocar Tag em Notas no Sieg
+## Passo a Passo de como Utilizar o Sieg
 
 **Olá, nesse manual vamos aprender a colocar Tag em notas no SIEG.**
 
